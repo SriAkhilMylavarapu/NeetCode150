@@ -29,6 +29,7 @@ My solutions to the NeetCode150 problems
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
@@ -42,4 +43,8 @@ My solutions to the NeetCode150 problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
