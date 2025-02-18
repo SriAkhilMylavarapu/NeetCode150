@@ -9,6 +9,7 @@ My solutions to the NeetCode150 problems
 | [0011-container-with-most-water](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0128-longest-consecutive-sequence) |
@@ -66,6 +67,7 @@ My solutions to the NeetCode150 problems
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
