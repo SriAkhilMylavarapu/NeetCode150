@@ -10,6 +10,7 @@ My solutions to the NeetCode150 problems
 | [0015-3sum](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0217-contains-duplicate) |
@@ -62,4 +63,12 @@ My solutions to the NeetCode150 problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
