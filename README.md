@@ -20,6 +20,7 @@ My solutions to the NeetCode150 problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,9 @@ My solutions to the NeetCode150 problems
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
