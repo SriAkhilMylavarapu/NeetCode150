@@ -84,6 +84,7 @@ My solutions to the NeetCode150 problems
 | ------- |
 | [0078-subsets](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +98,8 @@ My solutions to the NeetCode150 problems
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0160-intersection-of-two-linked-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
