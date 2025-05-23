@@ -27,6 +27,7 @@ My solutions to the NeetCode150 problems
 | [0036-valid-sudoku](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -60,6 +61,7 @@ My solutions to the NeetCode150 problems
 | [0011-container-with-most-water](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -91,4 +93,8 @@ My solutions to the NeetCode150 problems
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/SriAkhilMylavarapu/NeetCode150/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
